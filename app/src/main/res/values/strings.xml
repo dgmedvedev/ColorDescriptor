@@ -1,6 +1,20 @@
 <resources>
     <string name="app_name">Color Descriptor</string>
     <string name="spinner_item">item</string>
-    <string name="button_text">Button</string>
-    <string name="textview_text">TextView</string>
+    <string name="button_find_description">Button</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="description_of_temp">
+        <item>It\'s Red</item>
+        <item>It is Orange</item>
+        <item>It\'s Yellow</item>
+        <item>It is Green</item>
+        <item>It\'s Blue</item>
+    </string-array>
 </resources>
